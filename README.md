@@ -81,8 +81,6 @@ Business-ready, curated datasets for reporting and analytics.
 
 ---
 
-https://copilot.microsoft.com/th/id/BCO.84cc240f-782f-4d00-aa33-7017064b6f35.png
-
 # 📜 License
 
 This project is licensed under the **MIT License**.
