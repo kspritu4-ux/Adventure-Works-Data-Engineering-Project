@@ -1,5 +1,3 @@
-![1000144290](https://github.com/user-attachments/assets/83cac230-bd87-4b98-bc1f-4a7170021ad2)
-
 # ☁️ Azure Data Pipeline with Databricks, Synapse, and Power BI
 
 ## 📌 Overview
@@ -8,10 +6,9 @@ This repository demonstrates a **modern end-to-end data pipeline architecture** 
 
 The pipeline follows the **Medallion Architecture (Bronze 🥉, Silver 🥈, Gold 🥇)** pattern for scalable and efficient data processing and analytics.
 
-<img width="1024" height="1024" alt="AZy-Af7H_vZzw43_CFxf8A-AZy-Af7H6SyaUAbR9IeawA" src="https://github.com/user-attachments/assets/b05cd0ba-92ec-417d-b643-59b78f97fe48" />
-
-
 # 🏗️ Architecture
+
+![1000144290](https://github.com/user-attachments/assets/83cac230-bd87-4b98-bc1f-4a7170021ad2)
 
 ### 🌐 Data Source
 
@@ -80,15 +77,7 @@ Business-ready, curated datasets for reporting and analytics.
 3️⃣ Processed data is loaded into **Azure Synapse Analytics (Gold Layer)**.
 4️⃣ **Power BI** connects to Synapse to generate **analytics dashboards and insights**.
 
----
-
-# 🎯 Use Cases
-
-📊 Enterprise Data Warehousing
-⚡ Real-Time Analytics
-📈 Business Intelligence Dashboards
-🏗️ Modern Data Lakehouse Architecture
-
+<img width="1024" height="1024" alt="AZy-Af7H_vZzw43_CFxf8A-AZy-Af7H6SyaUAbR9IeawA" src="https://github.com/user-attachments/assets/b05cd0ba-92ec-417d-b643-59b78f97fe48" />
 ---
 
 # 📜 License
