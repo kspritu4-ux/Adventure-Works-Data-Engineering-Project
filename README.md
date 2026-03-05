@@ -78,6 +78,7 @@ Business-ready, curated datasets for reporting and analytics.
 4️⃣ **Power BI** connects to Synapse to generate **analytics dashboards and insights**.
 
 <img width="1024" height="1024" alt="AZy-Af7H_vZzw43_CFxf8A-AZy-Af7H6SyaUAbR9IeawA" src="https://github.com/user-attachments/assets/b05cd0ba-92ec-417d-b643-59b78f97fe48" />
+
 ---
 
 # 📜 License
