@@ -85,3 +85,22 @@ Business-ready, curated datasets for reporting and analytics.
 Built a star schema data model, created DAX measures, and visualized return trends across products, regions, and customer demographics.
 
 <img width="1432" height="807" alt="image" src="https://github.com/user-attachments/assets/b13eb914-c25d-4c5a-8268-5e0a44838e8d" />
+
+### Business Problem & Insights
+
+* The dashboard analyzes **293 products and 1,828 total returns**, helping businesses identify patterns causing product returns.
+* A **6.24% return rate** highlights a significant operational cost that needs monitoring and optimization.
+* Products like **Sport-100 (~200 returns)** and **Mountain (~180 returns)** show the highest return volume, indicating potential quality or expectation issues.
+* Returns increased from **86 (2015) to 972 (2017)**, revealing a growing trend that requires better inventory and product quality control.
+* Geographic insights show higher return activity in **North America and Europe**, helping businesses focus logistics and return management strategies.
+
+### Solution
+
+The dashboard provides actionable insights through interactive visuals, enabling businesses to **identify high-return products, monitor trends, and improve product quality and supply chain decisions**.
+
+
+---
+
+📄 License
+
+This project is licensed under the MIT License.
