@@ -81,6 +81,7 @@ Business-ready, curated datasets for reporting and analytics.
 
 ---
 
-# 📜 License
+# 📊 Designed an interactive Power BI dashboard analyzing AdventureWorks product returns. 
+Built a star schema data model, created DAX measures, and visualized return trends across products, regions, and customer demographics.
 
-This project is licensed under the **MIT License**.
+<img width="1432" height="807" alt="image" src="https://github.com/user-attachments/assets/b13eb914-c25d-4c5a-8268-5e0a44838e8d" />
